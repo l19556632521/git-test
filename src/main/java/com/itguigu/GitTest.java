@@ -14,6 +14,7 @@ public class GitTest {
         System.out.println("hello,git4 hot-fix");
         System.out.println("hello,git4 push hot-fix");
         System.out.println("push test");
+        System.out.println("pull之后才能push，切记！");
 
     }
 }
